@@ -30,7 +30,7 @@ The bot support only songs/audio from youtube. The supported command are:
 | :----:        | :----:      	    | :----:                          | :----:   	  |
 | hi            | N.D.              | bot responds saying hi          | /hi               |
 | join          | N.D.              | join your voice channel         | /join             |
-| play          | p                 | starts playing a song from yt link or search for the keywords specified, if the bot is playing something the song is added to queue | /play halo beyoncè           |
+| play          | p                 | starts playing a song from a youtube link or search for the keywords specified on youtube, if the bot is already playing something the song is added to queue | /play halo beyoncè           |
 | skip          | next              | skips the current song and play the next one (if exists) | /skip            |
 | song          | current_song      | display the name of the current song | /song             |
 | queue         | q, show_queue     | display all the song in queue        | /queue            |
