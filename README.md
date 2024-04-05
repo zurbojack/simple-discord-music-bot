@@ -21,7 +21,7 @@ First, you need to install the following things:
 
 Then, you can download the file "bot.py" and insert your discord bot token in the last line of code (remember to invite the bot to your discord server!).
 
-Finally you can run the python script and your bot should appear online on the server. Every command to the bot written in discord corresponds to debug 
+Finally you can run the python script and your bot should appear online on the server. Every command to the bot written in discord corresponds to debug. 
 
 ## What command do the bot support?
 The bot support only songs/audio from youtube. The supported command are:  
