@@ -27,7 +27,7 @@ Finally you can run the python script and your bot should appear online on the s
 The bot support only songs/audio from youtube. The supported command are:  
 
 | Command       | Aliases           | Description                     | Example           |
-| :---          |       :----:      |      :----:                     |            ---:   |
+| :----:        | :----:      	    | :----:                          | :----:   	  |
 | hi            | N.D.              | bot responds saying hi          | /hi               |
 | join          | N.D.              | join your voice channel         | /join             |
 | play          | p                 | starts playing a song from yt link or search for the keywords specified, if the bot is playing something the song is added to queue | /play halo beyoncè           |
